@@ -13,9 +13,9 @@ Favorite Places is a Flutter application that allows users to create a list of t
 ## Screenshots
 
 
-<img src="https://github.com/michelgm/favorite_places_/assets/99933941/f29df055-ab59-4751-b2f9-3abcedf70f90" width="250"/><br />
+<img src="https://github.com/michelgm/favorite_places_/assets/99933941/f29df055-ab59-4751-b2f9-3abcedf70f90" width="250"/>
+<img src="https://github.com/michelgm/favorite_places_/assets/99933941/ee8bd8cb-fc7c-4374-b495-103eb8b61824" width="250"/>
 <img src="https://github.com/michelgm/favorite_places_/assets/99933941/cf3ecfbe-0a2b-46aa-a4a0-5879d25ad0f7" width="250"/><br />
-<img src="https://github.com/michelgm/favorite_places_/assets/99933941/ee8bd8cb-fc7c-4374-b495-103eb8b61824" width="250"/><br />
 
 
 ## Getting Started
